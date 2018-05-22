@@ -1,0 +1,16 @@
+{
+  "name": "ahungry-profiler",
+  "version": "1.0.0",
+  "description": "Profiler an entire app in a few seconds of setup.",
+  "main": "index.js",
+  "author": "Matthew Carter",
+  "license": "GPL-3.0-with-autoconf-exception",
+  "private": false,
+  "scripts": {
+    "test": "node ./tests/test.js"
+  },
+  "dependencies": {
+    "ahungry-around": "^1.1.1",
+    "time-profile": "^1.0.0"
+  }
+}
