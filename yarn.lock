@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-ahungry-around@^1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/ahungry-around/-/ahungry-around-1.1.1.tgz#16d18afadd0f465f57c71473c6a5a75a0dfb94a0"
+ahungry-around@1.1.4:
+  version "1.1.4"
+  resolved "https://registry.yarnpkg.com/ahungry-around/-/ahungry-around-1.1.4.tgz#5a58102afaabb65ef54c918eb4e8d984d982e633"
 
 await-event@^2.1.0:
   version "2.1.0"
