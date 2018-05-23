@@ -1,6 +1,6 @@
 {
   "name": "ahungry-profiler",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Profiler an entire app in a few seconds of setup.",
   "main": "index.js",
   "author": "Matthew Carter",
